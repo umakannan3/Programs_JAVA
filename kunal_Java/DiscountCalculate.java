@@ -11,6 +11,6 @@ public class DiscountCalculate {
         double dis = input.nextDouble();
         double discountAmount = dis/100*amt; 
         double finalAmount = amt - discountAmount;
-        System.out.println("Final Raye of the product : "+finalAmount);
+        System.out.println("Final Rate of the product : "+finalAmount);
     }
 }
